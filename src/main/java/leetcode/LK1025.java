@@ -1,10 +1,9 @@
-package LK;
+package main.java.leetcode;
 
 import com.sun.org.apache.xerces.internal.impl.dv.util.HexBin;
 
 import java.io.UnsupportedEncodingException;
 import java.security.NoSuchAlgorithmException;
-import java.util.HashMap;
 import java.security.MessageDigest;
 
 /**

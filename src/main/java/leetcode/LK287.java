@@ -1,4 +1,4 @@
-package LK;
+package main.java.leetcode;
 
 public class LK287 {
     /**

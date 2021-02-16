@@ -1,4 +1,4 @@
-package LK;
+package main.java.leetcode;
 
 import java.util.ArrayDeque;
 import java.util.Queue;
