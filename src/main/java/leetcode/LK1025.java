@@ -1,4 +1,4 @@
-package main.java.leetcode;
+package leetcode;
 
 import com.sun.org.apache.xerces.internal.impl.dv.util.HexBin;
 
